@@ -7,8 +7,8 @@ StaticOffset=0x019C8068
 OffsetsUserID=2A0 18 B0 F0 10 0 50
 
 [LvUser]
-StaticOffset=0x036E3138
-OffsetsLvUser=B8 10 80 30 20
+StaticOffset=0x039CAC28
+OffsetsLvUser=B8 0 70 C8 60 20
 
 [ExpUser]
 StaticOffset=0x039DF5E0
@@ -27,11 +27,11 @@ StaticOffset=0x039BF940
 OffsetsIDB=C30 48 18 30 B0
 
 [Champions]
-StaticOffset=0x039BF4A0
-OffsetsLevel=48 E0 120 168 414
-OffsetsStar=48 E0 120 168 4A4
-OffsetsRarity=48 E0 120 168 4D4
-OffsetsElement=48 E0 120 168 444
+StaticOffset=0x039BF940
+OffsetsLevel=AE8 18 A0 58 C0 58 A8 68 50 444
+OffsetsStar=AE8 18 A0 58 C0 58 A8 68 50 4D4
+OffsetsRarity=AE8 18 A0 58 C0 58 A8 68 50 504
+OffsetsElement=AE8 18 A0 58 C0 58 A8 68 50 474
 
 [EquipCurrent]
 StaticOffset=0x03A08CB0
