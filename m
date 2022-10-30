@@ -34,15 +34,15 @@ OffsetsRarity=AE8 18 A0 58 C0 58 A8 68 50 504
 OffsetsElement=AE8 18 A0 58 C0 58 A8 68 50 474
 
 [EquipCurrent]
-StaticOffset=0x03D74CA0
-OffsetsLevel=FB8 80 4B8 1F8 24
-OffsetsStar=FB8 80 4B8 1F8 54
-OffsetsRarity=FB8 80 4B8 1F8 84
-OffsetsType=FB8 80 4B8 1F8 174
+StaticOffset=0x03AD81E8
+OffsetsLevel=2A0 600 490 58 20 78 24
+OffsetsStar=2A0 600 490 58 20 78 54
+OffsetsRarity=2A0 600 490 58 20 78 84
+OffsetsType=2A0 600 490 58 20 78 174
 
 [EquipStore]
-StaticOffset=0x03D74CA0
-OffsetsLevel=FB8 80 4B8 138 24
-OffsetsStar=FB8 80 4B8 138 54
-OffsetsRarity=FB8 80 4B8 138 84
-OffsetsType=FB8 80 4B8 138 174
+StaticOffset=0x03AD81E8
+OffsetsLevel=2A0 600 590 58 20 78 24
+OffsetsStar=2A0 600 590 58 20 78 54
+OffsetsRarity=2A0 600 590 58 20 78 84
+OffsetsType=2A0 600 590 58 20 78 174
