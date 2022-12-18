@@ -7,12 +7,12 @@ StaticOffset=0x019C8068
 OffsetsUserID=2A0 18 B0 F0 10 0 50
 
 [LvUser]
-StaticOffset=0x0386CA60
-OffsetsLvUser=B8 8 A0 108 20
+StaticOffset=0x03893350
+OffsetsLvUser=B8 0 A8 D0 18 30 20
 
 [ExpUser]
 StaticOffset=0x0386CA60
-OffsetsExpUser=B8 8 A0 108 28
+OffsetsExpUser=B8 0 A8 D0 18 30 28
 
 [EmailUser]
 StaticOffset=0x03783E68
