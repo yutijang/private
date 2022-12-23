@@ -27,11 +27,11 @@ StaticOffset=0x03B15B70
 OffsetsIDB=C30 48 18 30 B0
 
 [Champions]
-StaticOffset=0x03B15B70
-OffsetsLevel=A70 30 30 68 138 20 1A8 70 114
-OffsetsStar=A70 30 30 68 138 20 1A8 70 1A4
-OffsetsRarity=A70 30 30 68 138 20 1A8 70 1D4
-OffsetsElement=A70 30 30 68 138 20 1A8 70 144
+StaticOffset=0x038D1F80
+OffsetsLevel=B8 0 A8 50 20 20 A8 60 1A8 B4
+OffsetsStar=B8 0 A8 50 20 20 A8 60 1A8 144
+OffsetsRarity=B8 0 A8 50 20 20 A8 60 1A8 174
+OffsetsElement=B8 0 A8 50 20 20 A8 60 1A8 E4
 
 [EquipCurrent]
 StaticOffset=0x038A95A0
