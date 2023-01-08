@@ -27,22 +27,22 @@ StaticOffset=0x03B3B810
 OffsetsIDB=C30 48 18 30 B0
 
 [Champions]
-StaticOffset=0x03B5A178
-OffsetsLevel=120 748 78 70 20 20 A8 68 50 444
-OffsetsStar=120 748 78 70 20 20 A8 68 50 4D4
-OffsetsRarity=120 748 78 70 20 20 A8 68 50 504
-OffsetsElement=120 748 78 70 20 20 A8 68 50 474
+StaticOffset=0x03913B40
+OffsetsLevel=B8 0 40 98 30 18 A8 68 48 414
+OffsetsStar=B8 0 40 98 30 18 A8 68 48 4A4
+OffsetsRarity=B8 0 40 98 30 18 A8 68 48 4D4
+OffsetsElement=B8 0 40 98 30 18 A8 68 48 444
 
 [EquipCurrent]
-StaticOffset=0x0390CF58
-OffsetsLevel=3E0 18 B8 0 C0 308 D8 C8 70 444
-OffsetsStar=3E0 18 B8 0 C0 308 D8 C8 70 474
-OffsetsRarity=3E0 18 B8 0 C0 308 D8 C8 70 4A4
-OffsetsType=3E0 18 B8 0 C0 308 D8 C8 70 594
+StaticOffset=0x038B0A20
+OffsetsLevel=48 B8 0 C0 2B8 110 18 30 280 444
+OffsetsStar=48 B8 0 C0 2B8 110 18 30 280 474
+OffsetsRarity=48 B8 0 C0 2B8 110 18 30 280 4A4
+OffsetsType=48 B8 0 C0 2B8 110 18 30 280 594
 
 [EquipStore]
-StaticOffset=0x03907C70
-OffsetsLevel=3E0 18 B8 30 18 9E0 1C0 C8 70 444
-OffsetsStar=3E0 18 B8 30 18 9E0 1C0 C8 70 474
-OffsetsRarity=3E0 18 B8 30 18 9E0 1C0 C8 70 4A4
-OffsetsType=3E0 18 B8 30 18 9E0 1C0 C8 70 594
+StaticOffset=0x038B0A20
+OffsetsLevel=48 B8 0 C0 270 20 A8 C8 70 444
+OffsetsStar=48 B8 0 C0 270 20 A8 C8 70 474
+OffsetsRarity=48 B8 0 C0 270 20 A8 C8 70 4A4
+OffsetsType=48 B8 0 C0 270 20 A8 C8 70 594
